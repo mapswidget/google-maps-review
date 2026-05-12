@@ -1,6 +1,59 @@
 {
     "rating": "5.0",
-    "count": "0",
-    "reviews": [],
-    "last_updated": "2026-05-12 12:51:40"
+    "count": "24",
+    "reviews": [
+        {
+            "author": "vl misara",
+            "content": "",
+            "rating": "5 ⭐"
+        },
+        {
+            "author": "Gabi",
+            "content": "",
+            "rating": "5 ⭐"
+        }
+		,
+        {
+            "author": "Andrei Pop",
+            "content": "",
+            "rating": "5 ⭐"
+        }
+		,
+        {
+            "author": "Gabriel Ciutu",
+            "content": "Reactie si livrare foarte prompta, ambalat profesional.",
+            "rating": "5 ⭐"
+        }
+		,
+        {
+            "author": "Constantina Gabriel",
+            "content": "Livrare rapida. Servicii de calitate!",
+            "rating": "5 ⭐"
+        }
+		,
+        {
+            "author": "Foarte serioși !",
+            "content": "",
+            "rating": "5 ⭐"
+        }
+		,
+        {
+            "author": "Dan Cristache",
+            "content": "Foarte multumit de produse multumesc",
+            "rating": "5 ⭐"
+        }
+		,
+        {
+            "author": "Cristian Anghel",
+            "content": "",
+            "rating": "5 ⭐"
+        }
+				,
+        {
+            "author": "Nicolai Sargu",
+            "content": "Super firma, cu produse chiar pe stoc",
+            "rating": "5 ⭐"
+        }
+    ],
+    "last_updated": "Manual Update"
 }
